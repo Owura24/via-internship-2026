@@ -1,8 +1,8 @@
 # Metasploitable2 Exploitation Report
 
-**Name:** Eugene Antwi Boasiako
-**Index Number:** <PUT YOUR INDEX NUMBER HERE>
-**Date:** September 21, 2026
+**Name:** Agyekum-Boateng Owura Nyarko
+**Index Number:** 7351023
+**Date:** September 28, 2026
 **Target IP:** 192.168.1.3
 **Attacker OS / Tools:** Kali Linux, Metasploit, Nmap, Netcat
 
